@@ -27,6 +27,16 @@ Open Raw
 Copy raw link
 in terminal: wget raw_link
 
+<ins>Install Ubuntu GUI</ins>
+<br />
+sudo apt-get update
+sudo apt-get install ubuntu-desktop
+
+
+<ins>Share files on local network</ins>
+<br />
+sudo apt install spice-vdagent spice-webdavd
+
 # Aug 06, 2025
 
 <ins>Tmux Guide</ins>
