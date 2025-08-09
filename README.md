@@ -1,4 +1,11 @@
 # CS-Notes
+# Aug 09, 2025
+<ins>React Native App - Update 1</ins>
+<br />
+<img width="260" height="267" alt="Screenshot 2025-08-09 at 14 01 31" src="https://github.com/user-attachments/assets/fe80da3f-79e4-408e-be89-21ccb68485b2" />
+<img width="263" height="266" alt="Screenshot 2025-08-09 at 14 01 41" src="https://github.com/user-attachments/assets/459973fc-7571-487f-8d1c-ae61ab085d61" />
+<img width="264" height="267" alt="Screenshot 2025-08-09 at 14 01 48" src="https://github.com/user-attachments/assets/e5523723-9eb5-40dd-baa0-23add6351da6" />
+
 
 # Aug 08, 2025
 <ins>Tmux Guide - Part 2 </ins>
