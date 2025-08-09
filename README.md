@@ -5,7 +5,14 @@
 <img width="260" height="267" alt="Screenshot 2025-08-09 at 14 01 31" src="https://github.com/user-attachments/assets/fe80da3f-79e4-408e-be89-21ccb68485b2" />
 <img width="263" height="266" alt="Screenshot 2025-08-09 at 14 01 41" src="https://github.com/user-attachments/assets/459973fc-7571-487f-8d1c-ae61ab085d61" />
 <img width="264" height="267" alt="Screenshot 2025-08-09 at 14 01 48" src="https://github.com/user-attachments/assets/e5523723-9eb5-40dd-baa0-23add6351da6" />
-
+<br />
+<ins>React Native App - Update 2</ins>
+<br />
+<img width="421" height="265" alt="Screenshot 2025-08-09 at 16 30 11" src="https://github.com/user-attachments/assets/249b9917-34f2-4f53-bee5-c5bc2690b96e" />
+<img width="421" height="264" alt="Screenshot 2025-08-09 at 16 30 19" src="https://github.com/user-attachments/assets/558dd355-8dd0-459c-a2ff-f2a4c1764e96" />
+<img width="217" height="225" alt="Screenshot 2025-08-09 at 16 30 26" src="https://github.com/user-attachments/assets/65d7446c-8738-4097-bcf6-e18af5f5f3c4" />
+<img width="378" height="235" alt="Screenshot 2025-08-09 at 16 30 37" src="https://github.com/user-attachments/assets/5352edd8-472c-49fb-9f14-184633732853" />
+<br />
 
 # Aug 08, 2025
 <ins>Tmux Guide - Part 2 </ins>
