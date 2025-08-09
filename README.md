@@ -13,6 +13,9 @@
 <img width="217" height="225" alt="Screenshot 2025-08-09 at 16 30 26" src="https://github.com/user-attachments/assets/65d7446c-8738-4097-bcf6-e18af5f5f3c4" />
 <img width="378" height="235" alt="Screenshot 2025-08-09 at 16 30 37" src="https://github.com/user-attachments/assets/5352edd8-472c-49fb-9f14-184633732853" />
 <br />
+<ins>React Native App - Update 3</ins>
+<br />
+Implemented sign up option with appwrite
 
 # Aug 08, 2025
 <ins>Tmux Guide - Part 2 </ins>
