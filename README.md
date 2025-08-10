@@ -4,7 +4,7 @@
 <br />
 
 `which ruby`
-`export PATH=/usr/bin:$PATH`
+`export PATH='/usr/bin:$PATH'`
 `brew install ruby`
 `gem install bundler`
 `ruby -v`
@@ -13,7 +13,17 @@
 `chruby`
 `chruby 3.4.3`
 `ruby -v`
+`brew install cocoapods`
+`pod install`
 
+Brew
+`cd /opt/homebrew/bin/`
+`PATH=$PATH:/opt/homebrew/bin`
+`echo export PATH=$PATH:/opt/homebrew/bin >> ~/.zshrc`
+Run the commands in that order in terminal, you'll be editing the path and creating the missing .zshrc file, exporting the path to this new file.
+Now you should be able to use:
+`brew doctor`
+`brew update`
 
 # Aug 09, 2025
 <ins>React Native App - Update 1</ins>
