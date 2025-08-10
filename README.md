@@ -44,6 +44,11 @@ Install cocoapods & pod install
 `pod install`
 
 
+// `npm install expo-modules-core`
+`npx expo prebuild --clean`
+`cd ios`
+`npm run ios`
+File names shouldn't container spaces
 
 # Aug 09, 2025
 <ins>React Native App - Update 1</ins>
