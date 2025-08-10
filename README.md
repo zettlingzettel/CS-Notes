@@ -63,6 +63,14 @@ Updating node
 `npm install --save realm @realm/react @realm/babel-plugin`
 `npm install realm`
 
+set up metro file
+`const config = {
+  resolver: {
+    sourceExts: ['js', 'ts', 'tsx', 'svg'],
+  },
+};
+`
+
 # Aug 09, 2025
 <ins>React Native App - Update 1</ins>
 <br />
