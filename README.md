@@ -1,4 +1,19 @@
 # CS-Notes
+# Aug 10, 2025
+<ins>Updating Ruby[/ins>
+<br />
+which ruby
+export PATH=/usr/bin:$PATH
+brew install ruby
+gem install bundler
+ruby -v
+brew install ruby-install chruby
+ruby-install
+chruby
+chruby 3.4.3
+ruby -v
+
+
 # Aug 09, 2025
 <ins>React Native App - Update 1</ins>
 <br />
