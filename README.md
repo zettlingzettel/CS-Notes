@@ -16,6 +16,9 @@
 `brew install cocoapods`
 `pod install`
 
+Could not find 'minitest' (>= 5.1) among 368 total gem(s)
+`sudo gem install cocoapods`
+
 Brew
 `cd /opt/homebrew/bin/`
 `PATH=$PATH:/opt/homebrew/bin`
@@ -32,6 +35,14 @@ Rbenv
 `rbenv install -l`
 `rbenv install 3.4.5`
 `rbenv global 3.4.5` or `rbenv local 3.4.5`
+
+Install cocoapods & pod install
+`gem install bundler`
+`gem install cocoapods`
+`cd ios`
+`pod init`
+`pod install`
+
 
 
 # Aug 09, 2025
