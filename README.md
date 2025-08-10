@@ -70,7 +70,19 @@ set up metro file
   },
 };
 `
+
+Reverse to a previous commit
+<br/>
 https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+
+Add folders to an existing github repo
+`git init`
+`git add .`
+`git commit -m "my commit"`
+`git remote set-url origin git@github.com:username/repo.git`
+`git push origin main`
+<br/>
+https://stackoverflow.com/questions/25503017/why-does-git-tell-me-no-such-remote-origin-when-i-try-to-push-to-origin
 
 
 # Aug 09, 2025
