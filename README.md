@@ -70,6 +70,8 @@ set up metro file
   },
 };
 `
+https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+
 
 # Aug 09, 2025
 <ins>React Native App - Update 1</ins>
