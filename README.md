@@ -25,6 +25,15 @@ Now you should be able to use:
 `brew doctor`
 `brew update`
 
+Rbenv
+`brew install rbenv`
+`brew reinstall rbenv`
+`rbenv init`
+`rbenv install -l`
+`rbenv install 3.4.5`
+`rbenv global 3.4.5` or `rbenv local 3.4.5`
+
+
 # Aug 09, 2025
 <ins>React Native App - Update 1</ins>
 <br />
