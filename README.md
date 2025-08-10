@@ -50,6 +50,19 @@ Install cocoapods & pod install
 `npm run ios`
 File names shouldn't container spaces
 
+Updating node
+`nvm install node`
+`npm install --save realm`
+`npm install realm @realm/react`
+`npm install react-native-get-random-values`
+`npm install react-native-webview `
+`npx expo install expo-linear-gradient`
+`npx expo prebuild`
+`npx expo start --web`
+// `npx expo install realm @realm/react expo-network @realm/babel-plugin`
+`npm install --save realm @realm/react @realm/babel-plugin`
+`npm install realm`
+
 # Aug 09, 2025
 <ins>React Native App - Update 1</ins>
 <br />
