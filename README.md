@@ -1,4 +1,7 @@
 # CS-Notes
+# Aug 22
+Ping - to check that the terminal is up
+
 # Aug 10, 2025
 <ins>Updating Ruby</ins>
 <br />
